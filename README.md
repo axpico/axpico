@@ -2,7 +2,7 @@
 
 # Hey there, I'm **axpico** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=480&lines=Student+%7C+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=480&lines=Student+%7C+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -70,11 +70,17 @@
 
 ## **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Top Languages" />
+<table>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2" alt="GitHub Stats" />
+  </tr>
+  <tr>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2" alt="GitHub Streak" />
+  </tr>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Top Languages" />
+  </tr>
+</table>
 
 </div>
 
