@@ -84,20 +84,24 @@
 
 ## **Pinned Repositories**
 
-[![Rust CLI file explorer](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=readme-generator&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/rust-file-explorer)  
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=my-portfolio&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/axpico.github.io)
+[![Rust File Explorer](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/rust-file-explorer)  
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/axpico.github.io)
 
 </div>
 
 ---
 
+<!-- Contribution graph section removed due to broken URL -->
+
+<!-- You can add this instead as an image contribution tracker -->
+<!-- 
 <div align="center">
 
-## **GitHub Contribution Calendar**
+## **GitHub Contributions (3D View)**
 
-<img src="https://activity-graph.herokuapp.com/graph?username=axpico&theme=github" alt="Contribution graph" />
-
+<img src="https://github.com/axpico/axpico/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+-->
 
 ---
 
@@ -105,6 +109,6 @@
 
 ## **Let's Connect!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
 
 </div>
