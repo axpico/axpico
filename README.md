@@ -13,7 +13,7 @@
 ## **About Me**
 
 👨‍💻 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy  
-📍 Based in Olgiate Olona, Italy  
+📍  Olgiate Olona, Italy  
 🎯 Passionate about software development, problem-solving, and continuous learning  
 
 </div>
