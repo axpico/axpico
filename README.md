@@ -1,27 +1,25 @@
 <div align="center">
 
-# 👋 Hey there, I'm axpico
+# axpico
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=435&lines=Student+%7C+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 **About Me**
-
-🎓 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy   
-📍 Olgiate Olona, Italy
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=Computer+Science+Student;Software+Developer;Building+elegant+solutions" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-## 🛠️ **Tech Stack**
+Computer Science Student at **ISIS Facchinetti**, Castellanza  
+Based in Olgiate Olona, Italy
+
+Currently focused on software development and exploring new technologies to build meaningful solutions.
+
+---
+
+## Technologies
+
+**Languages**
 
 <table>
 <tr>
@@ -46,7 +44,7 @@
 
 <div align="center">
 
-## 📚 **Currently Learning**
+**Currently Exploring**
 
 <table>
 <tr>
@@ -65,35 +63,24 @@
 
 ---
 
+## GitHub Overview
+
 <div align="center">
 
-## 📊 **GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=minimal&hide_border=true&text_color=8B949E&icon_color=8B949E&bg_color=00000000" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=transparent&hide_border=true&text_color=6C7B7F&icon_color=6C7B7F" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=transparent&hide_border=true&stroke=6C7B7F&ring=6C7B7F&fire=6C7B7F&currStreakLabel=6C7B7F" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=transparent&hide_border=true&text_color=6C7B7F" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=minimal&hide_border=true&text_color=8B949E&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
 ---
 
-<div align="center">
+## Contact
 
-## 📈 **Activity Graph**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=minimal&hide_border=true&color=6C7B7F&line=6C7B7F&point=6C7B7F)](https://github.com/axpico)
-
-</div>
+**Email:** [ale@picone.it](mailto:ale@picone.it)
 
 ---
 
 <div align="center">
-
-## 📫 **Let's Connect**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
-
+<sub>Always learning, always building.</sub>
 </div>
-
