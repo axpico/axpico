@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**axpico/axpico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm axpico
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=435&lines=Student+%7C+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 **Currently Learning**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br><sub><b>Rust</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Ruby on Rails" />
+<br><sub><b>Ruby on Rails</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=transparent&hide_border=true&text_color=6C7B7F&icon_color=6C7B7F" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=transparent&hide_border=true&text_color=6C7B7F" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**💭 "Learning never exhausts the mind"**
+
+</div>
