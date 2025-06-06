@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm axpico
+# Hey there, I'm **axpico** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=435&lines=Student+%7C+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=480&lines=Student+%7C+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -12,8 +12,9 @@
 
 ## **About Me**
 
-🎓 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy   
-📍 Olgiate Olona, Italy
+👨‍💻 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy  
+📍 Based in Olgiate Olona, Italy  
+🎯 Passionate about software development, problem-solving, and continuous learning  
 
 </div>
 
@@ -81,8 +82,8 @@
 
 <div align="center">
 
-## **Contact me**
+## **Let's Connect!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)  
 
 </div>
