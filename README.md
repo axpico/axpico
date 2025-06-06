@@ -12,10 +12,8 @@
 
 ## 💫 **About Me**
 
-🎓 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy  
-🌱 Passionate about clean code & innovative solutions  
-🚀 Always exploring new technologies  
-📍 Alta Valle Intelvi, Italy
+🎓 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy   
+📍 Olgiate Olona, Italy
 
 </div>
 
@@ -99,10 +97,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-**💭 "Learning never exhausts the mind"**
-
-</div>
