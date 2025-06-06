@@ -81,16 +81,6 @@
 
 <div align="center">
 
-## **Activity Graph**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=minimal&hide_border=true&color=6C7B7F&line=6C7B7F&point=6C7B7F)](https://github.com/axpico)
-
-</div>
-
----
-
-<div align="center">
-
 ## **Contact me**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
