@@ -70,11 +70,11 @@
 
 ## **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=transparent&hide_border=true&text_color=6C7B7F&icon_color=6C7B7F" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=transparent&hide_border=true&stroke=6C7B7F&ring=6C7B7F&fire=6C7B7F&currStreakLabel=6C7B7F" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=transparent&hide_border=true&text_color=6C7B7F" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Top Languages" />
 
 </div>
 
@@ -84,24 +84,32 @@
 
 ## **Pinned Repositories**
 
-[![Rust File Explorer](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/rust-file-explorer)  
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/axpico.github.io)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/axpico/rust-file-explorer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Rust File Explorer" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/axpico/axpico.github.io" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="My Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<!-- Contribution graph section removed due to broken URL -->
-
-<!-- You can add this instead as an image contribution tracker -->
-<!-- 
 <div align="center">
 
-## **GitHub Contributions (3D View)**
+## **GitHub Contributions**
 
-<img src="https://github.com/axpico/axpico/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=gruvbox" alt="GitHub Contributions Graph" />
+
 </div>
--->
 
 ---
 
