@@ -82,6 +82,27 @@
 
 <div align="center">
 
+## **Pinned Repositories**
+
+[![Rust CLI file explorer](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=readme-generator&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/rust-file-explorer)  
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=my-portfolio&theme=transparent&hide_border=true&text_color=6C7B7F)](https://github.com/axpico/axpico.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+## **GitHub Contribution Calendar**
+
+<img src="https://activity-graph.herokuapp.com/graph?username=axpico&theme=github" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## **Let's Connect!**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)  
