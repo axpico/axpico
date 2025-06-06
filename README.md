@@ -10,6 +10,19 @@
 
 <div align="center">
 
+## 💫 **About Me**
+
+🎓 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy  
+🌱 Passionate about clean code & innovative solutions  
+🚀 Always exploring new technologies  
+📍 Alta Valle Intelvi, Italy
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛠️ **Tech Stack**
 
 <table>
@@ -60,7 +73,29 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=transparent&hide_border=true&text_color=6C7B7F&icon_color=6C7B7F" alt="GitHub Stats" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=transparent&hide_border=true&stroke=6C7B7F&ring=6C7B7F&fire=6C7B7F&currStreakLabel=6C7B7F" alt="GitHub Streak" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=transparent&hide_border=true&text_color=6C7B7F" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **Activity Graph**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=minimal&hide_border=true&color=6C7B7F&line=6C7B7F&point=6C7B7F)](https://github.com/axpico)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 **Let's Connect**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
 
 </div>
 
