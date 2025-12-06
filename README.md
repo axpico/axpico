@@ -9,8 +9,6 @@
 
 </p>
 
----
-
 <p align="center">
 
 ## <b>About Me</b>
@@ -20,8 +18,6 @@
 🎯 Passionate about software development, problem-solving, and continuous learning  
 
 </p>
-
----
 
 <p align="center">
 
@@ -36,8 +32,6 @@
 
 </p>
 
----
-
 <p align="center">
 
 ## <b>Currently Learning</b>
@@ -51,8 +45,6 @@
 
 </p>
 
----
-
 <p align="center">
 
 ## <b>GitHub Contributions</b>
@@ -63,8 +55,6 @@
 />
 
 </p>
-
----
 
 <p align="center">
 
