@@ -27,7 +27,12 @@
 
 ## <b>Tech Stack</b>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Tech Stack Icons" />
+<a href="https://skillicons.dev" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,javascript"
+    alt="Tech Stack Icons"
+  />
+</a>
 
 </p>
 
@@ -37,7 +42,12 @@
 
 ## <b>Currently Learning</b>
 
-<img src="https://skillicons.dev/icons?i=rust,rails" alt="Learning Icons" />
+<a href="https://skillicons.dev" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=rust,rails"
+    alt="Currently Learning Icons"
+  />
+</a>
 
 </p>
 
