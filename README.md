@@ -55,50 +55,6 @@
 
 <p align="center">
 
-## <b>GitHub Stats</b>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2"
-  alt="GitHub Stats"
-/>
-<br/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2"
-  alt="GitHub Streak"
-/>
-<br/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2"
-  alt="Top Languages"
-/>
-
-</p>
-
----
-
-<p align="center">
-
-## <b>Pinned Repositories</b>
-
-<a href="https://github.com/axpico/rust-file-explorer">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=gruvbox&hide_border=true&text_color=ebdbb2"
-    alt="Rust File Explorer"
-/>
-</a>
-<a href="https://github.com/axpico/axpico.github.io">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=gruvbox&hide_border=true&text_color=ebdbb2"
-    alt="My Portfolio"
-/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
 ## <b>GitHub Contributions</b>
 
 <img
