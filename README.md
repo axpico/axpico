@@ -1,128 +1,114 @@
-<div align="center">
+<p align="center">
 
-# Hey there, I'm **axpico** 👋
+# Hey there, I'm <b>axpico</b> 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=480&lines=Student+%7C+Developer" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6C7B7F&center=true&vCenter=true&width=480&lines=Student+%7C+Developer"
+  alt="Typing SVG"
+/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **About Me**
+## <b>About Me</b>
 
-👨‍💻 Computer Science Student at **ISIS Facchinetti** - Castellanza, Italy  
-📍  Olgiate Olona, Italy  
+👨‍💻 Computer Science Student at <b>ISIS Facchinetti</b> – Castellanza, Italy  
+📍 Olgiate Olona, Italy  
 🎯 Passionate about software development, problem-solving, and continuous learning  
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **Tech Stack**
+## <b>Tech Stack</b>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Tech Stack Icons" />
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **Currently Learning**
+## <b>Currently Learning</b>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-<br><sub><b>Rust</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Ruby on Rails" />
-<br><sub><b>Ruby on Rails</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=rust,rails" alt="Learning Icons" />
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **GitHub Stats**
+## <b>GitHub Stats</b>
 
-<table>
-  <tr>
-    <img src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2" alt="GitHub Stats" />
-  </tr>
-  <tr>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2" alt="GitHub Streak" />
-  </tr>
-  <tr>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Top Languages" />
-  </tr>
-</table>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=axpico&show_icons=true&theme=gruvbox&hide_border=true&text_color=ebdbb2&icon_color=ebdbb2"
+  alt="GitHub Stats"
+/>
+<br/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=axpico&theme=gruvbox&hide_border=true&stroke=ebdbb2&ring=ebdbb2&fire=ebdbb2&currStreakLabel=ebdbb2"
+  alt="GitHub Streak"
+/>
+<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=axpico&layout=compact&theme=gruvbox&hide_border=true&text_color=ebdbb2"
+  alt="Top Languages"
+/>
 
-</div>
-
----
-
-<div align="center">
-
-## **Pinned Repositories**
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/axpico/rust-file-explorer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="Rust File Explorer" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/axpico/axpico.github.io" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=gruvbox&hide_border=true&text_color=ebdbb2" alt="My Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **GitHub Contributions**
+## <b>Pinned Repositories</b>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=gruvbox" alt="GitHub Contributions Graph" />
+<a href="https://github.com/axpico/rust-file-explorer">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=rust-file-explorer&theme=gruvbox&hide_border=true&text_color=ebdbb2"
+    alt="Rust File Explorer"
+/>
+</a>
+<a href="https://github.com/axpico/axpico.github.io">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=axpico&repo=axpico.github.io&theme=gruvbox&hide_border=true&text_color=ebdbb2"
+    alt="My Portfolio"
+/>
+</a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## **Let's Connect!**
+## <b>GitHub Contributions</b>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale@picone.it)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=gruvbox"
+  alt="GitHub Contributions Graph"
+/>
 
-</div>
+</p>
+
+---
+
+<p align="center">
+
+## <b>Let's Connect!</b>
+
+<a href="mailto:ale@picone.it">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</p>
