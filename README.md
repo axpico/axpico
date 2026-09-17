@@ -12,7 +12,7 @@
 <h2 align="center"><b>About Me</b></h2>
 
 <p align="center">
-  👨‍💻 Computer Science Student at <b>ISIS Facchinetti</b> – Castellanza, Italy<br />
+  👨‍💻 Computer engeneer Student at <b>Politecnico di Milano</b> – Milano, Italy<br />
   📍 Olgiate Olona, Italy<br />
   🎯 Passionate about software development, problem-solving, and continuous learning
 </p>
