@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=rust,C"
+      src="https://skillicons.dev/icons?i=rust,c"
       alt="Currently Learning Icons"
     />
   </a>
