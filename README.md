@@ -24,15 +24,10 @@
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=java,python,javascript,rust,linux"
+      src="https://skillicons.dev/icons?i=java,python,javascript,rust,mysql,linux"
       alt="Tech Stack Icons"
     />
   </a>
-  <br />
-  <img
-    src="https://img.shields.io/badge/SQL-6C7B7F?style=flat-square&logo=databricks&logoColor=white"
-    alt="SQL"
-  />
 </p>
 
 <br />
@@ -54,7 +49,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=axpico&theme=gruvbox"
+    src="https://ghchart.rshah.org/6C7B7F/axpico"
     alt="GitHub Contributions Graph"
   />
 </p>
