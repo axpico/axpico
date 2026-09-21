@@ -12,8 +12,8 @@
 <h2 align="center"><b>About Me</b></h2>
 
 <p align="center">
-  👨‍💻 Computer engeneer Student at <b>Politecnico di Milano</b> – Milano, Italy<br />
-  📍 Olgiate Olona, Italy<br />
+  👨‍💻 Computer Engineering student at <b>Politecnico di Milano</b> – Milano, Italy<br />
+  📍 Lombardy, Italy<br />
   🎯 Passionate about software development, problem-solving, and continuous learning
 </p>
 
@@ -24,10 +24,15 @@
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=java,python,javascript"
+      src="https://skillicons.dev/icons?i=java,python,javascript,rust,linux"
       alt="Tech Stack Icons"
     />
   </a>
+  <br />
+  <img
+    src="https://img.shields.io/badge/SQL-6C7B7F?style=flat-square&logo=databricks&logoColor=white"
+    alt="SQL"
+  />
 </p>
 
 <br />
@@ -37,7 +42,7 @@
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=rust,c"
+      src="https://skillicons.dev/icons?i=c"
       alt="Currently Learning Icons"
     />
   </a>
