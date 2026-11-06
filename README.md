@@ -51,6 +51,12 @@
   <img src="https://ghchart.rshah.org/6C7B7F/axpico" alt="GitHub contributions" />
 </p>
 
+<h2 align="center">My koi</h2>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My git-koi, drawn daily from my GitHub activity" />
+</p>
+
 <h2 align="center">Let's connect</h2>
 
 <p align="center">
